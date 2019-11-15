@@ -1,0 +1,11 @@
+/* miniprogram/pages/cs/cs.wxss */
+page {
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.btn{
+  background-color: #cccccc;
+  width: 100% !important;
+}
